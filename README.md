@@ -11,5 +11,5 @@
    I. One js file called main.js\
    II. A style sheet called styles.css\
 
-   It can be installed in WP as it is, just download it and paste the shortcode [brightwheelform] whererver it pleases you in your post.
+   It can be installed in WP as a regular plugin, just download and install it. Then paste the shortcode [brightwheelform] whererver it pleases you in your post.
    I chose to do it as a plugin, using a shortcode, because in this fashion, any user could embed the form without any trouble on many posts, and it could be re-styled and refactored dynamicaly.

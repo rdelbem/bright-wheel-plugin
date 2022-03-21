@@ -1,7 +1,7 @@
 <div class="container">
     <div class="left-container">
         <div class="title-subheading">
-            <h4>Schedule a demo</h4>
+            <h4>Schedule a demo!</h4>
             <h5>See how brightwheel can help you manage attendace, collect tuition and communicate with families all in one place.</h5>
         </div>
         <div class="bullet-points">
